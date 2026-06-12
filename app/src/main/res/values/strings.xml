@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationVelib</string>
+    <string name="trie_ordreAlphabetique">🔤 A→Z</string>
+    <string name="trie_distance">📍 Distance</string>
+    <string name="trie_nbrVelos">🚲 Vélos</string>
+    <string name="trie_nbrPlaces">🅿️ Places</string>
+    <string name="trie_favoris">⭐ Favoris</string>
+    <string name="afff">🔤 A→Z</string>
+</resources>
